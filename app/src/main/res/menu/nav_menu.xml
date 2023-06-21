@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/post"
+        android:title="Post"
+        android:icon="@drawable/ic_add_post"/>
+
+    <item
+        android:id="@+id/camera"
+        android:title="camera"
+        android:icon="@drawable/ic_camera"/>
+
+    <item
+        android:id="@+id/friend"
+        android:title="scrap"
+        android:icon="@drawable/ic_scrap"/>
+
+    <item
+        android:id="@+id/account"
+        android:title="Account"
+        android:icon="@drawable/ic_account"/>
+
+
+</menu>

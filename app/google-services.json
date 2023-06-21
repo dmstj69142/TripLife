@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "618114732233",
+    "firebase_url": "https://test-628ed-default-rtdb.firebaseio.com",
+    "project_id": "test-628ed",
+    "storage_bucket": "test-628ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618114732233:android:7d98d365e1e4600ed0fd18",
+        "android_client_info": {
+          "package_name": "com.example.triplife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618114732233-lk0tdb72hjn6fd53hh1n5q0be5fu7aag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.triplife",
+            "certificate_hash": "3cad17d0ffac98d29f510f8c9a3c1c7273128aa5"
+          }
+        },
+        {
+          "client_id": "618114732233-uum1ltg5n2e9eorcneh45lk5ojiegm8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.triplife",
+            "certificate_hash": "7e464b5aa1471ab694d8728fa945e005111ea3fe"
+          }
+        },
+        {
+          "client_id": "618114732233-ihtjlcuisi5rjrqat0n27lk2iav6b6ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSTUVFlUhPz3_bEXvkkR2sZtgIhR4rRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618114732233-ihtjlcuisi5rjrqat0n27lk2iav6b6ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
